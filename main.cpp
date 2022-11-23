@@ -17,8 +17,6 @@ b=cont;}
 }
 else{
 cout<<"Error"<<endl;}
-  
-   return 0;
 }
 
 
