@@ -16,7 +16,7 @@ a=b;
 b=cont;}
 }
 else{
-cout<<"error"<<endl;}
+cout<<"errore"<<endl;}
 }
 
 
